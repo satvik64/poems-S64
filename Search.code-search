@@ -1,0 +1,67 @@
+# Query: GENERIC
+# ContextLines: 1
+
+16 results - 3 files
+
+COVID.html:
+   9  <head>
+  10:     <title>Generic - Binary by TEMPLATED</title>
+  11      <meta charset="utf-8" />
+
+  29              <li><a href="index.html">Home</a></li>
+  30:             <li><a href="COVID.html">COVID</a></li>
+  31              <li><a href="elements.html">Elements</a></li>
+
+  41              <header>
+  42:                 <h2><a href="COVID.html">COVID-19</a></h2>
+  43                  <p class="info">12/28/2020 <a href="#">Shubh Anand</a></p>
+
+elements.html:
+  29              <li><a href="index.html">Home</a></li>
+  30:             <li><a href="COVID.html">COVID</a></li>
+  31              <li><a href="elements.html">Elements</a></li>
+
+index.html:
+   57                  <ul class="actions">
+   58:                     <li><a href="generic.html" class="button alt">Read More</a></li>
+   59                  </ul>
+
+   75                  <header>
+   76:                     <h2><a href="generic.html">Donec ex risus mollis</a></h2>
+   77                      <p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+
+   81                  <ul class="actions">
+   82:                     <li><a href="generic.html" class="button alt">Read More</a></li>
+   83                  </ul>
+
+   99                  <header>
+  100:                     <h2><a href="generic.html">Sed tempus interdum</a></h2>
+  101                      <p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+
+  105                  <ul class="actions">
+  106:                     <li><a href="generic.html" class="button alt">Read More</a></li>
+  107                  </ul>
+
+  123                  <header>
+  124:                     <h2><a href="generic.html">Adipiscing sed urna</a></h2>
+  125                      <p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+
+  129                  <ul class="actions">
+  130:                     <li><a href="generic.html" class="button alt">Read More</a></li>
+  131                  </ul>
+
+  147                  <header>
+  148:                     <h2><a href="generic.html">Interdum et rutrum</a></h2>
+  149                      <p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+
+  153                  <ul class="actions">
+  154:                     <li><a href="generic.html" class="button alt">Read More</a></li>
+  155                  </ul>
+
+  171                  <header>
+  172:                     <h2><a href="generic.html">Magna porta aliquam</a></h2>
+  173                      <p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+
+  177                  <ul class="actions">
+  178:                     <li><a href="generic.html" class="button alt">Read More</a></li>
+  179                  </ul>
